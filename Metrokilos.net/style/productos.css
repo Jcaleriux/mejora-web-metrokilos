@@ -1,0 +1,82 @@
+.contenido_productos {
+    color: #002b5b;
+    
+}
+.fila_dividida {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contenido_productos h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+.contenido_productos p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 40px 80px;
+}
+.galeria_horizontal {
+    width: 100%;
+    max-width: 100%;
+    padding: 40px 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    color: #002b5b;
+    text-align: center;
+    z-index: 1;
+}
+
+.galeria_horizontal h1 {
+    font-size: 3rem;
+    margin-bottom: 40px;
+    font-weight: 600;
+}
+
+.galeria_scroll {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+    padding: 25px 20px;
+    scroll-behavior: smooth;
+}
+.galeria_scroll figure {
+    flex-shrink: 0;
+    width: 200px;
+    text-align: center;
+    margin: 0;
+}
+.galeria_scroll img {
+    height: 200px;
+    width: 100%;
+    border-radius: 5px;
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+    object-fit: cover;
+    background-color: #ddd;
+}
+
+.galeria_scroll img:hover {
+    transform: scale(1.20);
+}
+.galeria_scroll figcaption {
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 1rem;
+    color: #002b5b;
+}
+.galeria_scroll::-webkit-scrollbar {
+    height: 15px;
+}
+.galeria_scroll::-webkit-scrollbar-thumb {
+    background-color: #FFD700;
+    border-radius: 5px;
+}
+.galeria_scroll::-webkit-scrollbar-track {
+    background-color: #002b5b;
+    border-radius: 5px;
+}

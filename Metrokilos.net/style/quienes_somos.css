@@ -1,0 +1,28 @@
+.contenido_quienes_somos {
+    color: #002b5b;
+    
+}
+.fila_dividida {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contenido_quienes_somos h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+.contenido_quienes_somos p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 40px 80px;
+}
+.imagen {
+    max-width: 600px;
+    max-height: 1200px;
+    object-fit:contain;
+    object-position: center;
+}
