@@ -18,10 +18,10 @@ Este proyecto es una mejora de la página web de **Metrokilos**, una tienda de t
 - Git & GitHub (control de versiones y publicación)
 
 ## 📸 Capturas del sitio
-![Inicio del sitio](recursos/Imagenes/Captura%20de%20pantalla%20inicio.png)
-![Inicio del sitio](recursos/Imagenes/Captura%20de%20pantalla%20quienes%20somos%201.png)
-![Inicio del sitio](recursos/Imagenes/Captura%20de%20pantalla%20quienes%20somos%202.png)
-![Inicio del sitio](recursos/Imagenes/Captura%20de%20pantalla%20productos.png)
+![Inicio del sitio](Metrokilos.net/recursos/Imagenes/Captura%20de%20pantalla%20inicio.png)
+![Inicio del sitio](Metrokilos.net/recursos/Imagenes/Captura%20de%20pantalla%20quienes%20somos%201.png)
+![Inicio del sitio](Metrokilos.net/recursos/Imagenes/Captura%20de%20pantalla%20quienes%20somos%202.png)
+![Inicio del sitio](Metrokilos.net/recursos/Imagenes/Captura%20de%20pantalla%20productos.png)
 
 ## ✅ Validaciones aplicadas
 
